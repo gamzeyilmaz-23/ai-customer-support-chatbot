@@ -1,0 +1,118 @@
+[
+  {
+    "question": "Where can I find a product user manual?",
+    "keywords": [
+      "manual",
+      "instructions",
+      "guide",
+      "documentation"
+    ],
+    "answer": "Please check the product's official website or the documentation included with your purchase. Make sure you select the exact model so you use the correct instructions."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "keywords": [
+      "contact",
+      "help",
+      "support team",
+      "email"
+    ],
+    "answer": "Use the customer support contact options listed on the brand's official website. Include your product model, order reference if relevant, and a clear description of the issue."
+  },
+  {
+    "question": "How can I check my order status?",
+    "keywords": [
+      "order",
+      "tracking",
+      "delivery",
+      "shipment"
+    ],
+    "answer": "Check the order confirmation or shipping email for a tracking link. If tracking is unavailable or has not updated, contact the retailer or the brand's official support team."
+  },
+  {
+    "question": "What should I do if my order arrives damaged?",
+    "keywords": [
+      "damaged",
+      "broken package",
+      "delivery problem"
+    ],
+    "answer": "Take clear photos of the packaging and the item, keep the order details, and contact the retailer or official support team as soon as possible. Follow their instructions before disposing of the packaging."
+  },
+  {
+    "question": "Can I return a product?",
+    "keywords": [
+      "refund",
+      "return",
+      "exchange",
+      "返品"
+    ],
+    "answer": "Return eligibility depends on the seller, country, purchase date, and product condition. Review the retailer's return policy or contact the seller with your order details."
+  },
+  {
+    "question": "How do I find warranty information?",
+    "keywords": [
+      "warranty",
+      "guarantee",
+      "repair"
+    ],
+    "answer": "Warranty terms vary by product and region. Check the warranty documentation supplied with the product or contact the official support team with the model and proof of purchase."
+  },
+  {
+    "question": "I forgot my account password. What can I do?",
+    "keywords": [
+      "password",
+      "login",
+      "sign in",
+      "account"
+    ],
+    "answer": "Use the 'Forgot password' option on the sign-in page and follow the reset instructions sent to your registered email address. Check your spam folder if you do not receive the message."
+  },
+  {
+    "question": "How can I update my account details?",
+    "keywords": [
+      "profile",
+      "email address",
+      "personal details"
+    ],
+    "answer": "Sign in to your account and look for account settings or profile details. If you cannot access or change the information, contact the website's official support team."
+  },
+  {
+    "question": "Where can I find information about product features?",
+    "keywords": [
+      "features",
+      "specifications",
+      "model",
+      "compare"
+    ],
+    "answer": "Review the official product page and user manual for accurate specifications. Compare the exact model names because features may differ between versions."
+  },
+  {
+    "question": "What information should I provide when reporting a problem?",
+    "keywords": [
+      "issue",
+      "problem",
+      "troubleshoot",
+      "report"
+    ],
+    "answer": "Describe what happened, when it started, and the steps you have already tried. Include the product model and relevant order information, but do not share passwords or payment card details."
+  },
+  {
+    "question": "How can I delete my account?",
+    "keywords": [
+      "close account",
+      "remove account",
+      "delete profile"
+    ],
+    "answer": "Check the account settings for an account deletion option or contact the service's official support team. Review any consequences, such as loss of order history, before confirming."
+  },
+  {
+    "question": "Does this chatbot provide official product advice?",
+    "keywords": [
+      "official",
+      "reliable",
+      "product advice",
+      "foreo"
+    ],
+    "answer": "No. This is an independent portfolio demonstration with sample FAQs. It is not an official brand chatbot and does not provide verified product-specific instructions."
+  }
+]
